@@ -22,7 +22,7 @@ A empresa precisava entender:
 ## 🗂️ Base de dados
 
 * Fonte: Dados simulados
-* Volume: em torno de 10000 dados
+* Volume: 10.000 dados
 * Informações: receitas, despesas, categorias de custos, datas e resultados financeiros
 
 ---
@@ -52,9 +52,9 @@ A empresa precisava entender:
 
 ## 📈 Principais insights
 
-* A empresa apresentou crescimento de receita ao longo dos meses
+* A empresa apresentou queda de receita ao longo dos meses
 * Determinadas categorias concentram a maior parte dos custos
-* Houve períodos com redução de margem de lucro devido ao aumento de despesas
+* Apesar da queda na receita da empresa ela manteve sua media de gasto padrão
 * O lucro líquido varia significativamente entre os meses
 
 ---
@@ -86,7 +86,7 @@ A empresa precisava entender:
 
 ## 👨‍💻 Autor
 
-João Carlos de Oliveira Ramos 
-🔗 LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-carlos-b579a4401/
-🔗 GitHub: (https://github.com/Joaocarlos2026)
-🔗 EMAIL : joaocarlos_Ramos@outlook.com.br
+* João Carlos de Oliveira Ramos 
+* 🔗 LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-carlos-b579a4401/
+* 🔗 GitHub: (https://github.com/Joaocarlos2026)
+* 🔗 EMAIL : joaocarlos_Ramos@outlook.com.br
